@@ -41,6 +41,14 @@ Esta herramienta será fundamental para ayudar a la Dra. María y a Laura a ofre
 - Mejorar la comunicación y coordinación entre médicos y enfermeras en la atención del paciente.
 
 
+## Demo
+
+
+https://github.com/user-attachments/assets/dcea45d7-d443-4218-b02b-c8037f237f1d
+
+
+
+
 ## Diseño de la Herramienta
 
 
